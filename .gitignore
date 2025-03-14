@@ -1,0 +1,15 @@
+# Ignorar archivos temporales
+__pycache__/
+*.log
+*.sqlite3
+
+# Ignorar archivos de npm
+node_modules/
+
+# Ignorar archivos de IDE
+.vscode/
+.idea/
+
+# Ignorar archivos grandes
+*.zip
+*.rar
