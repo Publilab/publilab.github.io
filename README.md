@@ -48,8 +48,6 @@ Bienvenido al repositorio de la página web de Publilab Consulting, donde la inn
 
 ## Contacto
 
-Para más información o para agendar una demostración, visita nuestra [página de contacto](#) o envíanos un correo a **info@publilabconsulting.cl**.
-
----
+Para más información o para agendar una demostración, visita nuestra [página de contacto](#https//publilab.cl) o envíanos un correo a **contacto@publilab.cl**
 
 ¡Gracias por visitar la web de Publilab Consulting, donde transformamos la gestión pública con tecnología de vanguardia!
